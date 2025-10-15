@@ -33,3 +33,28 @@ SELECT
         ELSE 'Low Risk'
     END AS RiskCategory
 FROM BankCustomerChurn;
+
+
+📈 Power BI Dashboard
+
+Visuals include:
+
+KPI Cards: Total Customers, Churn %, Avg. Balance
+
+Age Group vs Risk Category
+
+Geography-wise Churn Map
+
+Gender vs Churn (Donut Chart)
+
+Tenure vs Churn Rate (Line Chart)
+
+Number of Products vs Churn (Bar Chart)
+
+📊 Key Insights
+
+Customers aged 51+ and inactive are the most churn-prone.
+
+France region showed highest churn (competitive market).
+
+High-balance but inactive members are high-risk for attrition.
