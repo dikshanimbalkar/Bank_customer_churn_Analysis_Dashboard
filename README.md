@@ -35,7 +35,7 @@ SELECT
 FROM BankCustomerChurn;
 
 
-📈 Power BI Dashboard
+## 📈 Power BI Dashboard
 
 Visuals include:
 
@@ -51,7 +51,7 @@ Tenure vs Churn Rate (Line Chart)
 
 Number of Products vs Churn (Bar Chart)
 
-📊 Key Insights
+## 📊 Key Insights
 
 Customers aged 51+ and inactive are the most churn-prone.
 
